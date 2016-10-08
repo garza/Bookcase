@@ -342,7 +342,7 @@
         <scene sceneID="XMd-qP-7Ji">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="yCB-5y-Kwk" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Books" image="literature" id="22R-vX-jUo"/>
+                    <tabBarItem key="tabBarItem" title="Books" id="22R-vX-jUo"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="4eX-f3-5tA">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -380,7 +380,7 @@
         <scene sceneID="s4D-Ma-Whs">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="8Wq-Lb-LxR" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Covers" image="literature" id="uk1-dI-dQK"/>
+                    <tabBarItem key="tabBarItem" title="Covers" id="uk1-dI-dQK"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="mBV-ix-jsN">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -398,7 +398,6 @@
     </scenes>
     <resources>
         <image name="book" width="450" height="413"/>
-        <image name="literature" width="25" height="25"/>
         <image name="ratings" width="150" height="25"/>
     </resources>
     <inferredMetricsTieBreakers>
